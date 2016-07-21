@@ -19,7 +19,7 @@
     from user_t
     where id = #{id,jdbcType=INTEGER}
   </select>
-  <select id="selectByEmial" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+  <select id="selectByEmail" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
     select
     <include refid="Base_Column_List" />
     from user_t

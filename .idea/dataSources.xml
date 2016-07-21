@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3481473549">
+  <component name="DataSourceManagerImpl" format="xml" hash="2194398180">
     <data-source source="LOCAL" name="MySQL - db_sendemail@localhost" uuid="2245afed-4cad-48a5-819b-332865ca0fac">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
